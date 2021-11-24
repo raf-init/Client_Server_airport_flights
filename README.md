@@ -1,4 +1,4 @@
-# Client_Server-airport_flights
+# Client_Server_airport_flights
 Using ConcurrentHashMap.
 Each flight has its own code. First the Multithreaded Server is started.
 Then 3 "Reader" type threads and 3 "Writer" type threads are created. Each thread sends a random request 10 times. 
